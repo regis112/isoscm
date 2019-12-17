@@ -286,4 +286,5 @@ mvn clean compile assembly:single
 
 The executable .jar can be found in the sub-directory target/IsoSCM-[version].jar
 
+
 [![Analytics](https://ga-beacon.appspot.com/UA-55176595-1/isoscm/readme?pixel)](https://github.com/shenkers/isoscm/ga-beacon)
